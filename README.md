@@ -14,7 +14,6 @@ It's hosted live via **GitHub Pages**.
 
 To make changes to the website:
 
-```bash
 git add .
 git commit -m "Describe your update"
 git push
